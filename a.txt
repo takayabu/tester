@@ -3,3 +3,4 @@ takatukikunrorikon
 takatukikunzenti
 not normaltakatuki
 abnormaltakatuki
+takatukikai
